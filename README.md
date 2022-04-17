@@ -22,5 +22,5 @@ Usage:
 
 There is also a [CGI script](leo_cgi.py) which provides the same functionality
 in the browser. The CGI script can be served with [LigHTTPd](https://www.lighttpd.net/)
-by using the included [configuration file](lighttpd.conf) and the [start script](lightppd.sh).
+by using the included [configuration file](lighttpd.conf) and the [start script](lighttpd.sh).
 
